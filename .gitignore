@@ -1,0 +1,58 @@
+# ─── Secrets & Environment ───────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example   # keep the example template
+
+# ─── Python / Backend ─────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+logs/
+*.log
+
+# ─── Node / Frontend ──────────────────────────────────────────────────────────
+node_modules/
+.next/
+out/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.tsbuildinfo
+next-env.d.ts
+
+# ─── IDE & OS ─────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Docker ───────────────────────────────────────────────────────────────────
+# docker-compose.override.yml   # keep regular compose file
+
+# ─── Misc ─────────────────────────────────────────────────────────────────────
+*.bak
+*.tmp
+coverage/
+.nyc_output/
