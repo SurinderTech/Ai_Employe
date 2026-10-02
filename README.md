@@ -1,6 +1,6 @@
 <div align="center">
 
-![VoxAI Banner](./assets/banner.jpg)
+  <img src="./ec01ad32-5551-4e93-94c1-ff80e4278fa0.gif" alt="AI Employee Demo" width="850">
 
 # VoxAI — AI Business Employee
 
