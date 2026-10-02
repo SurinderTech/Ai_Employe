@@ -1,6 +1,7 @@
 <div align="center">
 
- <img src="./ai-employee.gif" alt="AI Employee Demo" width="850">
+ <img src="./assets/ai-employee.gif" alt="AI Employee Demo" width="850">
+ 
 # VoxAI — AI Business Employee
 
 **An autonomous AI worker that answers every call, qualifies every lead, books appointments, and updates your CRM — without a single human touch.**
