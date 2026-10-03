@@ -631,6 +631,6 @@ Total human effort: **zero.** The agent handled intake, qualification, CRM entry
 
 **VoxAI turns your inbound phone line into a tireless, intelligent employee that qualifies leads, books appointments, updates your CRM, and escalates only what matters — so your team can focus on closing.**
 
-[⭐ Star this repo](https://github.com/SurinderTech/Ai_Employe) · [🐛 Report a Bug](https://github.com/SurinderTech/Ai_Employe/issues) · [💡 Request a Feature](https://github.com/SurinderTech/Ai_Employe/issues)
+[⭐ Star this repo](https://github.com/SurinderTech/Ai_Employe) · [🐛 Report a Bug](https://github.com/SurinderTech/Ai_Employe/issues) · [ Request a Feature](https://github.com/SurinderTech/Ai_Employe/issues)
 
 </div>
